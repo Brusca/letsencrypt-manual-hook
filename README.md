@@ -17,7 +17,7 @@ Download the files for installation
 
 ``` sh
   $ git clone https://github.com/lukas2511/letsencrypt.sh.git
-  $ git clone https://github.com/jbjonesjr/letsencrypt-manual-hook.git letsencrypt.sh/hooks/manual
+  $ git clone https://github.com/jbjonesjr/letsencrypt-manual-hook.git hooks/manual
 ```
 
 ## Usage
